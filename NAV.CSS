@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+         <meta charset="utf-8">
+		 <link rel="stylesheet"herf="nav.css"> </head>
+       </head>
+    <body>
+	
+	<div class="topnav">
+	<a class="active"herf="#HOME">HOME</a>
+	  <a href="#NEWS">NEWS</a>
+	  <a href="#CONTACT">CONTAC</a>
+	  <a href="#ABOUT">ABOUT</a>
+	  </div>
+	   
+	  <div style="padding-left:20px">
+	 <h2>THIS IS NAVIGATION BAR</h2> 
+	 <p>THIS WAS DONE USING HTML AND CSS</p>
+	  </div>
+	  
+	  </body>
+</html>
